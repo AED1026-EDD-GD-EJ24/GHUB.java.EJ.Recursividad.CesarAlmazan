@@ -11,7 +11,7 @@ public class Principal {
             System.out.println("*************************");
             System.out.println("      Recursividad       ");
             System.out.println("*************************");
-            System.out.println("1) RATIONAL");
+            System.out.println("1) Ladrillos pared");
             
             System.out.println("                 ");
             System.out.println("0) SALIR");
